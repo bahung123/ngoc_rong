@@ -1,0 +1,74 @@
+Initialize engine version: 5.6.7f1 (e80cc3114ac1)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: ATI Radeon HD 5600 Series (ID=0x68d8)
+    Vendor:   ATI
+    VRAM:     512 MB
+    Driver:   31.0.14051.5006
+Begin MonoManager ReloadAssembly
+Platform assembly: Z:\home\hung\ngoc-rong-online-main\Client\Dragonboy_vn_v230\Dragonboy_vn_v230_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading Z:\home\hung\ngoc-rong-online-main\Client\Dragonboy_vn_v230\Dragonboy_vn_v230_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: Z:\home\hung\ngoc-rong-online-main\Client\Dragonboy_vn_v230\Dragonboy_vn_v230_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading Z:\home\hung\ngoc-rong-online-main\Client\Dragonboy_vn_v230\Dragonboy_vn_v230_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: Z:\home\hung\ngoc-rong-online-main\Client\Dragonboy_vn_v230\Dragonboy_vn_v230_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading Z:\home\hung\ngoc-rong-online-main\Client\Dragonboy_vn_v230\Dragonboy_vn_v230_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: Z:\home\hung\ngoc-rong-online-main\Client\Dragonboy_vn_v230\Dragonboy_vn_v230_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading Z:\home\hung\ngoc-rong-online-main\Client\Dragonboy_vn_v230\Dragonboy_vn_v230_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.035 seconds
+Platform assembly: Z:\home\hung\ngoc-rong-online-main\Client\Dragonboy_vn_v230\Dragonboy_vn_v230_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: Z:\home\hung\ngoc-rong-online-main\Client\Dragonboy_vn_v230\Dragonboy_vn_v230_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Touch support initialization failed: Call not implemented.
+.
+UnloadTime: 0.784000 ms
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: 1d4 -> priority: 1 
+  Thread -> id: 1d8 -> priority: 1 
+  Thread -> id: 1dc -> priority: 1 
+  Thread -> id: 1e0 -> priority: 1 
+  Thread -> id: 1e8 -> priority: 1 
+  Thread -> id: 1e4 -> priority: 1 
+init Session_ME
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+init Session_ME
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Trying to create a material from string - this is no longer supported.
+ 
+(Filename:  Line: 1086)
+
+connecting...!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+host: dragon7.teamobi.com
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+port: 14445
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 166 unused Assets to reduce memory usage. Loaded Objects now: 1066.
+Total: 1.680600 ms (FindLiveObjects: 0.086800 ms CreateObjectMapping: 0.042900 ms MarkObjects: 1.443400 ms  DeleteObjects: 0.106400 ms)
+
+APP QUIT
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+  at System.Net.Sockets.NetworkStream.Read (System.Byte[] buffer, Int32 offset, Int32 size) [0x00000] in <filename unknown>:0 
+  at System.IO.Stream.ReadByte () [0x00000] in <filename unknown>:0 
+  at System.IO.BinaryReader.ReadByte () [0x00000] in <filename unknown>:0 
+  at System.IO.BinaryReader.ReadSByte () [0x00000] in <filename unknown>:0 
+  at Session_ME+MessageCollector.readMessage () [0x00000] in <filename unknown>:0 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
